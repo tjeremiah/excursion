@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    
+}
+
+h1 {
+   font-weight: normal;
+   font-size: 50px;
+   color: white;
+   text-align: center;
+}
+
+
+
+a {
+  color: green; 
+  text-align: center; 
+}
+
+.phone_image .camp_image {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.waterfall_video {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.points_of_image {
+   font-weight: normal;
+   color: gray;
+   text-align: center;
+}
+
+.excursion_footer{
+    font-weight: normal;
+    color: gray;
+    text-align: right;
+} 
+
